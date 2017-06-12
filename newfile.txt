@@ -1,3 +1,0 @@
-committed
-staged
-workspace
